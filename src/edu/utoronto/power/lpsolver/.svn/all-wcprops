@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tcipapplets/!svn/ver/3/ZebLPSolver/edu/utoronto/power/lpsolver
+END
+LPConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcipapplets/!svn/ver/3/ZebLPSolver/edu/utoronto/power/lpsolver/LPConstraint.java
+END
+LPVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcipapplets/!svn/ver/3/ZebLPSolver/edu/utoronto/power/lpsolver/LPVariable.java
+END
+LPSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcipapplets/!svn/ver/3/ZebLPSolver/edu/utoronto/power/lpsolver/LPSolver.java
+END
+LPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcipapplets/!svn/ver/3/ZebLPSolver/edu/utoronto/power/lpsolver/LPException.java
+END

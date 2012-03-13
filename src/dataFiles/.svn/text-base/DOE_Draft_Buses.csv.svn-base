@@ -1,0 +1,16 @@
+1,510,130,Northwest Wind / Storage Interchange,FALSE
+2,610,200,Substation 1,TRUE
+3,680,200,Load 1,FALSE
+4,680,270,Load 2,FALSE
+5,680,340,Load 3,FALSE
+6,740,200,Substation 2,TRUE
+7,840,190,North Atlantic Offshore Wind,FALSE
+8,740,270,Substation 4,TRUE
+9,740,340,Substation 5,TRUE
+10,840,340,South Atlantic Offshore Wind,FALSE
+11,610,270,Substation 3,TRUE
+12,460,290,Central Wind,FALSE
+13,760,270,Natural Gas,FALSE
+14,580,240,Coal,FALSE
+15,410,160,Storage,FALSE
+16,460,100,Northwest Wind,FALSE

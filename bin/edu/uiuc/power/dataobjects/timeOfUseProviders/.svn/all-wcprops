@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcipapplets/!svn/ver/24/PSDisplay/src/edu/uiuc/power/dataobjects/timeOfUseProviders
+END
+PricingScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tcipapplets/!svn/ver/24/PSDisplay/src/edu/uiuc/power/dataobjects/timeOfUseProviders/PricingScheme.java
+END
+HourlyPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tcipapplets/!svn/ver/24/PSDisplay/src/edu/uiuc/power/dataobjects/timeOfUseProviders/HourlyPrice.java
+END
+ConstantPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tcipapplets/!svn/ver/24/PSDisplay/src/edu/uiuc/power/dataobjects/timeOfUseProviders/ConstantPrice.java
+END
